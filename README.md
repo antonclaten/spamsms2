@@ -14,8 +14,8 @@ $ cd Brut-Spaming
 $ python v2.py
 ```
 ## Feature Brut-Spaming
-[X] -Only Py3
-[X] -Sms
-[X] -WhatsApp
-[X] -Call
+- [X] Only Py3
+- [X] Sms
+- [X] WhatsApp
+- [X] Call
 > Get token[ click here ]()
