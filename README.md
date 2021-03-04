@@ -18,4 +18,4 @@ $ python v2.py
 - [X] Sms
 - [X] WhatsApp
 - [X] Call
-> Get token[ click here ]()
+> Get token[ click here ](https://cutt.ly/6l9ffsl)
